@@ -1,0 +1,14 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "cloning tube",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "myself",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
